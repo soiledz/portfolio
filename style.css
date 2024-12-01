@@ -243,6 +243,7 @@ header .navbar ul li a:hover {
 
 .about .row .info h4 {
   font-size: var(--medium-fz);
+  color: var(--main-clr);
 }
 
 .about .row .info h4 span {
